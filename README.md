@@ -73,9 +73,4 @@ The **Take Attendance** button will mark you as present in class if you are in t
 ## Demo Video
 https://www.youtube.com/watch?v=wEkA8go10n8
 
-# Contributors
-### Zac You
-### Jim Zhu
-### Fadi Haddad
-### Mayank Saboo
-### Douglas Weisse
+
