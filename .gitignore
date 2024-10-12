@@ -1,0 +1,23 @@
+# Android Studio project, class, gradel files
+*.iml
+.gradle
+/local.properties
+.idea
+/.idea
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/build
+/captures
+.externalNativeBuild
+.cxx
+.project
+.settings
+.classpath
+.vscode
+# MAC OS
+
+.DS_Store
